@@ -41,7 +41,7 @@ class NewIco extends Component {
     return (
       <Layout>
         <h3>
-          You must be logged into Metamask to create a new Initial Coin Offering
+          You must be logged into Metamask on the Rinkeby Network to create a new Initial Coin Offering
           (ICO)
         </h3>
 

@@ -40,7 +40,7 @@ class Show extends Component {
 
       {
         header: maxInvestors,
-        meta: 'Max number of people that can invest in this ICO.',
+        meta: 'Max number of people that can invest in this ICO',
         key: 1,
       },
       {
