@@ -7,7 +7,7 @@
     "dev": "node server.js",
     "build": "next build",
     "deployContract": "node ethereum/compile.js; node ethereum/deploy.js",
-    "start": "node server.js",
+    "start": "NODE_ENV=production node server.js",
     "test": "mocha"
   },
   "keywords": [],
